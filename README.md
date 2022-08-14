@@ -26,3 +26,17 @@ point, wind speed and hourly weather forecast for a particular country.
 
 ### Tools
 :snake: Python Django With API
+
+### Project Output
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/hamzaa639/hamzaa639/blob/main/2.PNG"" >
+    </td>
+  </tr>
+    <td>
+      <img src="https://github.com/hamzaa639/hamzaa639/blob/main/1.PNG" >
+    </td
+</tr>
+</table>
