@@ -10,7 +10,7 @@
   
 ### Introduction
 <p>
-Our project will the weather app also provides atmospheric pressure,
+Our project is the weather app that also provides atmospheric pressure,
 weather conditions, relative humidity, precipitation in different unites, dew
 point, wind speed and hourly weather forecast for a particular country.
 </p>
