@@ -11,7 +11,7 @@
 ### Introduction
 <p>
 Our project is the weather app that also provides atmospheric pressure,
-weather conditions, relative humidity, precipitation in different unites, dew
+weather conditions, relative humidity, precipitation in different units, dew
 point, wind speed and hourly weather forecast for a particular country.
 </p>
 
